@@ -1,30 +1,139 @@
-# 💫 About Me:
-I'm a passionate developer specializing in web technologies. I enjoy building cool projects, contributing to open source, and learning new things.<br>Connect with me on:<br>Linkedin - https://www.linkedin.com/in/atharvaralegankar/<br>or<br>Visit my Portfolio Website- https://atharvaralegankar.me<br>
+<!--
+  - Color Theme Used:
+    - Main BG: #0d0b0a
+    - Card BG: #151311
+    - Accent Orange: #e28a59
+    - Body Text: #dfd5cf
+    - Muted: #7c6f68
+    - Border: #26211e
+-->
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvaralegankar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvaralegankar) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Atharva262005&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atharva262005&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva262005&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atharva262005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Atharva262005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="https://atharvaralegankar.web.app">
+    <img src="./header.png" width="100%" alt="Atharva Ralegankar's Profile Terminal" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atharva262005&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured Projects
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/QPAC-QUIC-Powered-Adaptive-Communication-Accelerator">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=QPAC-QUIC-Powered-Adaptive-Communication-Accelerator&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="QPAC" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/ai-audit-shelf">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=ai-audit-shelf&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="AI Audit Shelf" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/recallrift">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=recallrift&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="RecallRift" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/react-meta">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=react-meta&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="React Meta" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/Buto-AI">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=Buto-AI&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="Buto AI" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ATHARVA262005/campaignmind-gemma4">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ATHARVA262005&repo=campaignmind-gemma4&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&show_owner=false" width="100%" alt="CampaignMind Gemma4" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats & Progress
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <!-- Languages Card -->
+    <td width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ATHARVA262005&layout=compact&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000&langs_count=6" width="100%" alt="Top Languages" />
+    </td>
+    <!-- Streak Card -->
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARVA262005&background=00000000&ring=e28a59&fire=e28a59&currStreakNum=dfd5cf&sideNums=dfd5cf&sideLabels=7c6f68&dates=7c6f68&stroke=00000000" width="100%" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <!-- GitHub Stats Card -->
+    <td colspan="2" width="100%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=ATHARVA262005&show_icons=true&bg_color=00000000&title_color=e28a59&text_color=dfd5cf&icon_color=e28a59&border_color=00000000" width="100%" alt="GitHub Profile Stats" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Leadership
+
+<table width="100%" cellpadding="16">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🥇</h3>
+      <b>Best Student Innovation Solution</b><br/>
+      <sub>Innovate You Hackathon 2.0 &nbsp;·&nbsp; Feb 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️</h3>
+      <b>Zonal Round Cleared</b><br/>
+      <sub>Avishkar Research Competition (Maharashtra Govt) &nbsp;·&nbsp; Oct 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>👥</h3>
+      <b>GDG OnCampus Organizer</b><br/>
+      <sub>Google Developer Groups &nbsp;·&nbsp; Sep 2024 – Jun 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯</h3>
+      <b>Adobe India Hackathon</b><br/>
+      <sub>Top 50 Round Nationwide &nbsp;·&nbsp; 2024</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/atharvaralegankar">
+    <img src="https://img.shields.io/badge/LinkedIn-151311?style=for-the-badge&logo=linkedin&logoColor=e28a59&border_color=26211e" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ralegankaratharva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-151311?style=for-the-badge&logo=gmail&logoColor=e28a59&border_color=26211e" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://atharvaralegankar.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-151311?style=for-the-badge&logo=google-chrome&logoColor=e28a59&border_color=26211e" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/atharvaralegankar">
+    <img src="https://img.shields.io/badge/LeetCode-151311?style=for-the-badge&logo=leetcode&logoColor=e28a59&border_color=26211e" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Code. Build. Ship. Repeat."</em><br/>
+  <strong>— Atharva Ralegankar</strong>
+</p>
