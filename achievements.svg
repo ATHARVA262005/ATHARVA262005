@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="242" viewBox="0 0 872 242">
+<rect x="0" y="0" width="430" height="115" rx="8" fill="#151311" stroke="#2a2420" stroke-width="1"/>
+<clipPath id="clip_0_0"><rect x="0" y="0" width="430" height="115" rx="8"/></clipPath><rect x="0" y="0" width="4" height="115" fill="#e28a59" clip-path="url(#clip_0_0)"/>
+<g transform="translate(20,46) scale(0.9167)" fill="none" stroke="#e28a59" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v7a6 6 0 01-12 0V3z"/><path d="M6 7H2v2a4 4 0 004 4"/><path d="M18 7h4v2a4 4 0 01-4 4"/><line x1="12" y1="16" x2="12" y2="20"/><line x1="8"  y1="21" x2="16" y2="21"/></g>
+<text x="56" y="49" font-family="Consolas, 'Courier New', monospace" font-size="13.5" font-weight="bold" fill="#dfd5cf">Best Student Innovation Solution</text>
+<text x="56" y="73" font-family="Consolas, 'Courier New', monospace" font-size="11.5" fill="#7c6f68">Innovate You Hackathon 2.0  ·  Feb 2025</text>
+
+<rect x="442" y="0" width="430" height="115" rx="8" fill="#151311" stroke="#2a2420" stroke-width="1"/>
+<clipPath id="clip_442_0"><rect x="442" y="0" width="430" height="115" rx="8"/></clipPath><rect x="442" y="0" width="4" height="115" fill="#e28a59" clip-path="url(#clip_442_0)"/>
+<g transform="translate(462,46) scale(0.9167)" fill="none" stroke="#e28a59" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L4 6v6c0 4.4 3.4 8.5 8 9.5 4.6-1 8-5.1 8-9.5V6L12 2z"/><polyline points="9 12 11 14 15 10"/></g>
+<text x="498" y="49" font-family="Consolas, 'Courier New', monospace" font-size="13.5" font-weight="bold" fill="#dfd5cf">Zonal Round Cleared</text>
+<text x="498" y="73" font-family="Consolas, 'Courier New', monospace" font-size="11.5" fill="#7c6f68">Avishkar Research Competition (Maharashtra Govt)  ·  Oct 2025</text>
+
+<rect x="0" y="127" width="430" height="115" rx="8" fill="#151311" stroke="#2a2420" stroke-width="1"/>
+<clipPath id="clip_0_127"><rect x="0" y="127" width="430" height="115" rx="8"/></clipPath><rect x="0" y="127" width="4" height="115" fill="#e28a59" clip-path="url(#clip_0_127)"/>
+<g transform="translate(20,173) scale(0.9167)" fill="none" stroke="#e28a59" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9"  cy="7"  r="3.5"/><path d="M3 22v-2a5 5 0 015-5h2a5 5 0 015 5v2"/><circle cx="17" cy="7"  r="2.5"/><path d="M22 22v-1.5A4 4 0 0019 17"/></g>
+<text x="56" y="176" font-family="Consolas, 'Courier New', monospace" font-size="13.5" font-weight="bold" fill="#dfd5cf">GDG OnCampus Organizer</text>
+<text x="56" y="200" font-family="Consolas, 'Courier New', monospace" font-size="11.5" fill="#7c6f68">Google Developer Groups (GDG) OnCampus  ·  Sep 2024 – Jun 2025</text>
+
+<rect x="442" y="127" width="430" height="115" rx="8" fill="#151311" stroke="#2a2420" stroke-width="1"/>
+<clipPath id="clip_442_127"><rect x="442" y="127" width="430" height="115" rx="8"/></clipPath><rect x="442" y="127" width="4" height="115" fill="#e28a59" clip-path="url(#clip_442_127)"/>
+<g transform="translate(462,173) scale(0.9167)" fill="none" stroke="#e28a59" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1" fill="#e28a59" stroke="none"/><line x1="12" y1="2"  x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="2"  y1="12" x2="5"  y2="12"/><line x1="19" y1="12" x2="22" y2="12"/></g>
+<text x="498" y="176" font-family="Consolas, 'Courier New', monospace" font-size="13.5" font-weight="bold" fill="#dfd5cf">Adobe India Hackathon</text>
+<text x="498" y="200" font-family="Consolas, 'Courier New', monospace" font-size="11.5" fill="#7c6f68">Top 50 Round Nationwide  ·  2024</text>
+</svg>
